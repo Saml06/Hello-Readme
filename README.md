@@ -1,4 +1,4 @@
-asdfghjkl;
+This is my first public repository. :)
 
 <!---
 nowaydrea/nowaydrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
